@@ -6,6 +6,8 @@ A simple Brainfuck compiler that targets C, MIPS, and i386.
 make
 ```
 
+File extension doesn't matter, any filename is fine.
+
 ## C
 ```
 ./brainfuck filename.bf -c
